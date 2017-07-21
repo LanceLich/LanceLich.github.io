@@ -1,9 +1,9 @@
 # Site settings
 name: LanceLich
 email: lichk51@gmail.com
-author: Freud Kang
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
+author: LanceLich
+url: http://www.lancelich.com
+resume_site: http://www.lancelich.com/Resume.io/
 github: https://github.com/LanceLich/
 baseurl: ""
 description: Play Hard
@@ -28,12 +28,3 @@ baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
 FB:
   comments :
     provider : yungentie
-    duoshuo:
-        short_name : luoyan35714
-    disqus :
-        short_name : freudkang
-    # facebook :
-    #   appid : 123
-    #   num_posts: 5
-    #   width: 580
-    #   colorscheme: light
