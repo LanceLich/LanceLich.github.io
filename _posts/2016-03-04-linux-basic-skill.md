@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Linux 常用功能和快捷键记录
-date:   2016-03-04 10:40:00 +0800
+date:   2017-07-25 16:35:00 +0800
 categories: 技术文档
 tag: Linux
 ---
